@@ -14,7 +14,7 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 
 ⬇️ Get the dataset from: 
 
- - ☁️ [Google Drive](https://drive.google.com/drive/folders/1vChKHzbboP1k6wd6t95guxxURW3nIXBe?usp=sharing)
+ - ☁️ [Google Drive](https://drive.google.com/drive/folders/18dki-y3bTdoLcoJgdvKmaiqcqlUfBgyA?usp=drive_link)
  - ☁️ [OneDrive]() ***(Preparing)***
  - ☁️ [Baidu Pan]() ***(Preparing)***
 
