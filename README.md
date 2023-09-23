@@ -22,8 +22,8 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 🤗 Or use [gdown](https://github.com/wkentaro/gdown):
 
  ```bash
- 🎉 train.zip 5.86 GB
-  gdown 'https://drive.google.com/uc?id=1Ko-d-LX0dF0FMED-wDZIlxz4rjJTmCZ-'
+ 🎉 train.zip 5.88 GB
+  gdown 'https://drive.google.com/uc?id=178E1TYK7tgj-FXzgnjJyx9gZs2GhQBqr'
 🎆 valid.zip 3.5 GB
   gdown 'https://drive.google.com/uc?id=10P49VBM7vhGHCqhYvaIjzs7wV0oKLGNl'
 📌 test.zip 3.21 GB
