@@ -1,6 +1,6 @@
 # PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation 
 
-**[🏠[Homepage]](https://shilinyan99.github.io/PanoVOS/)** &emsp; **[📄[Paper]]()**
+**[🏠[Homepage]](https://shilinyan99.github.io/PanoVOS/)** &emsp; **[📄[Paper]](https://arxiv.org/abs/2309.12303)**
 
 
 PanoVOS is the first benchmark for panoramic video object segmentation. 
@@ -69,6 +69,12 @@ x_meta.json
             }
         }
     }
+
+# <object_id> is the same as the pixel values of object in annotated segmentation PNG files.
+# <frame_id> is the 5-digit index of frame in video, and not necessary to start from 0.
+# <start_frame> is the  start frame id of target object.
+# <end_frame> is the  end frame id of target object.
+# <frame_nums> is the number of existing frames of target object.
 
 ```
 
