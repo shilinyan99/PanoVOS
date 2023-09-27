@@ -87,6 +87,15 @@ x_meta.json
 ## Citation
 Please consider to cite PanoVOS if it helps your research.
 
+```
+@article{yan2023panovos,
+  title={PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation},
+  author={Yan, Shilin and Xu, Xiaohao and Hong, Lingyi and Chen, Wenchao and Zhang, Wenqiang and Zhang, Wei},
+  journal={arXiv preprint arXiv:2309.12303},
+  year={2023}
+}
+```
+
 ## Contact
 If you have any question about this project, please feel free to contact tattoo.ysl@gmail.com.
 
