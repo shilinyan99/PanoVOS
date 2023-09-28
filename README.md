@@ -10,6 +10,7 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 ## News
 
 ***[🔥🔥🔥28.09.2023: Dataset has been released!]***
+
 ***[🚀🚀🚀28.09.2023: CodaLab competition is on live now!]***
 
 ## Dataset
