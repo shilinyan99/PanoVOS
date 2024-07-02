@@ -1,4 +1,4 @@
-# PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation 
+# PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation (ECCV 2024)
 
 **[🏠[Homepage]](https://shilinyan99.github.io/PanoVOS/)** &emsp; **[📄[Paper]](https://arxiv.org/abs/2309.12303)**
 
@@ -8,6 +8,7 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 ![PanoVOS overview](./image/teaser.png)
 
 ## News
+***[🔥🔥🔥01.07.2024: PanoVOS has been accepted by ECCV 2024!]***
 
 ***[🔥🔥🔥28.09.2023: Dataset has been released!]***
 
