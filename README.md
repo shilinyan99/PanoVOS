@@ -1,4 +1,4 @@
-# PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation (ECCV 2024)
+# [ECCV 2024] PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation
 
 **[🏠[Homepage]](https://shilinyan99.github.io/PanoVOS/)** &emsp; **[📄[Paper]](https://arxiv.org/abs/2309.12303)**
 
