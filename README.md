@@ -14,7 +14,6 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 
 ***[🔥🔥🔥28.09.2023: Dataset has been released!]***
 
-***[🚀🚀🚀28.09.2023: CodaLab competition is on live now!]***
 
 ## Dataset
 
@@ -22,9 +21,9 @@ PanoVOS is the first benchmark for panoramic video object segmentation.
 
 ⬇️ Get the dataset from: 
 
- - ☁️ [Google Drive](https://drive.google.com/drive/folders/18dki-y3bTdoLcoJgdvKmaiqcqlUfBgyA?usp=drive_link)
- - ☁️ [OneDrive]() ***(Preparing)***
- - ☁️ [Baidu Pan]() ***(Preparing)***
+ - ☁️ [Google Drive](https://drive.google.com/drive/folders/18dki-y3bTdoLcoJgdvKmaiqcqlUfBgyA?usp=drive_link) (`train.zip`, `valid.zip`, `test.zip` RGB frames)
+ - 📦 [Validation Full GT Annotations (`val_annotations.zip`, 10 MB)](./annotations/val_annotations.zip)
+ - 📦 [Test Full GT Annotations (`test_annotations.zip`, 12 MB)](./annotations/test_annotations.zip)
 
 
 🤗 Or use [gdown](https://github.com/wkentaro/gdown):
